@@ -2,7 +2,7 @@
 //  Assisngment1MASApp.swift
 //  Assisngment1MAS
 //
-//  Created by Maria Paula Lengua Espejo  on 9/4/22.
+//  Created by Maxwell Nelson  on 9/4/22.
 //
 
 import SwiftUI
