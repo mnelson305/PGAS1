@@ -18,6 +18,8 @@ struct ContentView: View {
     
     var body: some View {
             VStack {
+                Text("Cool Counter App")
+                    .font(Font.system(size: 80))
                 Text("\(count)")
                     .font(Font.system(size: 50))
                 Button(action: {self.count = count + 1}) {
